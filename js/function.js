@@ -14,3 +14,4 @@ document.getElementById("boton_fondo").onclick=function(){
     console.log("Color de fondo");
     document.body.style.backgroundColor='#905050';
 }
+ /* a donde sube esto? */
